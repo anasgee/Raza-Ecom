@@ -1,0 +1,30 @@
+body{
+    font-family: "Poppins",sans-serif;
+    background: rgb(209, 209, 209);
+}
+.SideBar{
+    display: flex;
+    flex-direction:column;
+    background: white;
+    width: 100%;
+    max-width: 250px;
+    height: 100vh;
+    padding: 10px;
+}
+.Product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(209, 209, 209);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 1rem;
+    width: 80%;
+    color: black;
+    gap: 20px;
+}
+.Product:hover{
+   background: rgb(104, 104, 104)   ;
+   color: white;
+}
+

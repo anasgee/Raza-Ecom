@@ -1,0 +1,12 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    box-shadow: 0px 0px 10px 1px;
+    background: white;
+    margin-bottom: 5px;
+}
+.navLogo{
+    width: 200px;
+}
